@@ -1539,7 +1539,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #010351;
+  background: #000000;
   padding: 0 0 30px 0;
   color: #fff;
   font-size: 14px;
@@ -1551,7 +1551,7 @@ section {
 
 #footer .footer-top .footer-info {
   margin-bottom: 15px;
-  background: #010246;
+  background: black;
   color: #fff;
   border-top: 4px solid rgb(0, 255, 17);
   text-align: center;
