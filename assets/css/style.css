@@ -980,7 +980,7 @@ section {
 }
 
 .details {
-  background-color: black;
+  background-image: linear-gradient(to bottom,rgb(0, 0, 0), rgb(55, 54, 54));
 }
 
 .img-size {
@@ -1008,8 +1008,8 @@ section {
 }
 
 .details .content .col-md-4 img {
-  border-radius: 10px; /* Adjust the value to control the amount of border radius */
-  box-shadow: 0px 10px 50px 10px rgba(38, 197, 3, 0.2); /* Adjust the shadow properties as desired */
+  border-radius: 15px; /* Adjust the value to control the amount of border radius */
+  box-shadow: 0px 10px 50px 10px rgba(38, 197, 3, 0.1); /* Adjust the shadow properties as desired */
   transform: translateY(10px); /* Adjust the vertical position for the emboss effect */
 }
 
