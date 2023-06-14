@@ -1556,27 +1556,27 @@ section {
 --------------------------------------------------------------*/
 #footer {
   background: #000000;
-  padding: 0 0 30px 0;
+  padding: 0 0 15px 0;
   color: #fff;
   font-size: 14px;
 }
 
 #footer .footer-top {
-  padding: 60px 0 30px 0;
+  padding: 25px 0 30px 0;
 }
 
 #footer .footer-top .footer-info {
   margin-bottom: 15px;
   background: black;
   color: #fff;
-  border-top: 4px solid rgb(0, 255, 17);
+  /* border-top: 4px solid rgb(0, 255, 17); */
   text-align: center;
   padding: 30px 20px;
 }
 
 #footer .footer-top .footer-info h3 {
   font-size: 24px;
-  margin: 0 0 20px 0;
+  margin: 0 0 10px 0;
   padding: 2px 0 2px 0;
   line-height: 1;
   font-weight: 700;
@@ -1723,7 +1723,7 @@ section {
 }
 
 #footer .appstore {
-  width: 40%;
+  width: 20%;
   height: auto;
   
 }
