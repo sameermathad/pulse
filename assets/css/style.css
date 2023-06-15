@@ -50,7 +50,8 @@ h6 {
   bottom: 0;
   z-index: 9999;
   overflow: hidden;
-  background: #fff;
+  background-image: linear-gradient(to bottom black,rgb(59, 58, 58)
+);
 }
 
 #preloader:before {
@@ -1710,7 +1711,7 @@ section {
 }
 
 #footer .copyright {
-  border-top: 1px solid #010479;
+  border-top: 1px solid #000000;
   text-align: center;
   padding-top: 30px;
 }
